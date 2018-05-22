@@ -7,6 +7,7 @@
       "installMode": "prefetch",
       "updateMode": "prefetch",
       "urls": [
+        "https://fndroid.github.io/fanxian_pwa/",
         "https://fndroid.github.io/fanxian_pwa/favicon.ico",
         "https://fndroid.github.io/fanxian_pwa/index.html",
         "https://fndroid.github.io/fanxian_pwa/main.dafadf70471bf08befdd.js",
