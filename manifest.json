@@ -1,8 +1,8 @@
 {
-  "name": "fanxian",
+  "name": "返现查询",
   "short_name": "fanxian",
   "theme_color": "#1976d2",
-  "background_color": "#fafafa",
+  "background_color": "#1a1aff",
   "display": "standalone",
   "scope": "/",
   "start_url": "https://fndroid.github.io/fanxian_pwa/index.html",
