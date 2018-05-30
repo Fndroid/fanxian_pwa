@@ -5,7 +5,7 @@
   "background_color": "#fafafa",
   "display": "standalone",
   "scope": "/",
-  "start_url": "https://fndroid.github.io/fanxian_pwa/",
+  "start_url": "https://fndroid.github.io/fanxian_pwa/index.html",
   "icons": [
     {
       "src": "assets/icons/icon-72x72.png",
@@ -17,7 +17,7 @@
       "sizes": "96x96",
       "type": "image/png"
     },
-    {
+    { 
       "src": "assets/icons/icon-128x128.png",
       "sizes": "128x128",
       "type": "image/png"
